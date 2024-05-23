@@ -1,10 +1,10 @@
 
 {
 	"name": "Izumi-v3",
-	"description": "Fully Costamisable Bot by, Alien-Alfa.",
+	"description": "Fully Costamisable Bot by, Eypz.",
 	"repository": "https://github.com/eypz/WhatsAppBot-MD",
 	"website": "https://small-sharp-tool.com/",
-	"logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
+	"logo": "https://telegra.ph/file/fe6de879c1c23fb19094e.jpg",
 	"keywords": ["multi-device","WhatsApp Bot"],
     	"stack": "container",
 	"env": { 
