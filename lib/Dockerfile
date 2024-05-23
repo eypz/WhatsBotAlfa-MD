@@ -1,6 +1,6 @@
 FROM node:latest
-RUN git clone https://github.com/eypz/WhatsBotAlfa-MD.git /root/EYPZ/
-WORKDIR /root/EYPZ/
+RUN git clone https://github.com/eypz/WhatsBotAlfa-MD.git /root/ALFA/
+WORKDIR /root/ALFA/
 RUN yarn global add pm2
 RUN yarn
 RUN yarn install --ignore-engines --network-concurrency 1
